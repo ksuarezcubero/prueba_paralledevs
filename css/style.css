@@ -1,0 +1,22 @@
+body{
+    margin: auto;
+}
+
+.table {
+    margin: auto;
+    padding: auto;
+    max-width: 90%;
+    background: #0256;;
+}
+
+#map{
+    margin: auto;
+    width: 90%;
+    height: 500px;
+    
+}
+
+h2{
+    color: darkslategrey;
+    margin: 40px 0px 30px 70px
+}
